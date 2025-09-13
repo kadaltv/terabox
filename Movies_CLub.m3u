@@ -5,81 +5,137 @@
 //========================================================================
  MOVIES VOD 2025
 //========================================================================
-#EXTM3U
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dfaZipN3Aw5BK85nEvfr2FNg4EW.jpg",L2: Empuraan (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/06/L2.Empuraan.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jMxQmcoZ7Dqz9n1f7M3yA3YPxTl.jpg",Vadakkan (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/06/Vadakkan.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AaLuFjbcYp3lT48kenZ04AvvcRW.jpg",The Mollie Project (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/06/The.Mollie.Project.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cAPIS05UGqsTwiu0Qjs0WlIUW1l.jpg",Salvable (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/06/Salvable.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sexwl8lMBQZMmDhRtmVyHQewvVm.jpg",Dajal: Satu Malam Dipedajal (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/06/Night.of.Deception.Dajal.Satu.Malam.Dipedajal.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6lamti02vdF6xvxA7aj3Ohwaxtk.jpg",Worlds Apart (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/Worlds.Apart.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tLQqoRaw0x2ORm4PbW4Rz5Pb6CV.jpg",Sneaks (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/Sneaks.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tzJQuBZx8tXy2OGF6NlK3NLKguo.jpg",The Seat (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/The.Seat.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yimg7ZM08WoNOPLKhtfLRvVC6M.jpg",Britain and the Blitz (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/Britain.and.the.Blitz.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5OktNOyJ5mdD4ZWgUE74FeGzTio.jpg",Scissors (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/Scissors.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bnciRmZZSdyqp7HcrAwNG0mObaP.jpg",The Calendar Killer (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/The.Calendar.Killer.Sebastian.Fitzeks.der.heimweg.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/gBpWci0BDNjA9B010kRVIKF3mMV.jpg",The Old Way (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/04/Life.Hangs.by.a.Shot.the.old.way.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/9uh1vtpaSAc8geSdnJ8SciiH0LS.jpg",28 Degree Celsius (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/04/28.Degree.Celsius.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AkVkN46qrXI7HrS5ASKhGHOrTwi.jpg",Rob1n (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/03/Rob1n.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/15r5v9OxXe66pEIgYsmqriRVmVG.jpg",Brighter Days (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/03/Brighter.Days.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/66ZZuLaf7gMSuAIjv4kz0dgDgcF.jpg",Money Games (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/03/Money.Games.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aBGsAVaeFhcKmLLvf6JGgjXKtz5.jpg",Day of Reckoning (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/02/Day.of.Reckoning.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aBGsAVaeFhcKmLLvf6JGgjXKtz5.jpg",The Biggest Fan (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/02/The.Biggest.Fan.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",Another Simple Favor (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/02/Another.Simple.Favor.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/efCaYlRl0LcZNX15dEz3KxcUigi.jpg",Hitman 2 (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/02/Hitman.2.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qWTfHG8KdXwr0bqypYbNZLenh0J.jpg",Exterritorial (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/01/Exterritorial.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dS2S5lpfgRIRQOb7LDCjNsQqKjp.jpg",Drop (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/01/Drop.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hsID52Xm8VyljFoILd4eW1ZtJ76.jpg",🔵 Bloat (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/05/Bloat.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4vWDKzP6aA962Pkyb8puS106gVN.jpg",Murder at the Lighthouse (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/01/Murder.at.the.Lighthouse.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wn6Y3AmynoQxTGwIkHuCWB4APS4.jpg",Bull Shark 2 (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/01/Bull.Shark.2.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lXR32JepFwD1UHkplWqtBP1K79z.jpg",Death of a Unicorn (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/01/Death.of.a.Unicorn.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zZCjLIwNgjx0yVDG7R4qygfalSH.jpg",Armed (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/16/Armed.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/04/film-wolf-girl-2025-lk21-d21.jpg.webp",Wolf Girl (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/16/Wolf.Girl.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg",🔵 Alarum (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Alarum.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/1YkVZRCngFXAmS3bDRcRbDYYOIj.jpg",Neighborhood Watch (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/16/Neighborhood.Watch.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6iiWsXJ31BVbypWwzvoPKx24NFQ.jpg",Veera Dheera Sooran: Part 2 (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/16/Veera.Dheera.Sooran.Part.2.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4QovS6ZvEsigboCJVIqT9X5pexF.jpg",The Baby in the Basket (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/16/The.Baby.in.the.Basket.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg",Freaky Tales (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/16/Freaky.Tales.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bMcqaWJv7dBzb8lDQLqawGH09PC.jpg",Frewaka (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/16/Frewaka.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bEiJBcwdR4oOTCgstLkqTUja58p.jpg",Havoc (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/15/Havoc.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",Jewel Thief: The Heist Begins (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/15/Jewel.Thief.The.Heist.Begins.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3dcq4ikTVGfQ8uuGxOrwOYxO8ex.jpg",Hidden Tides: 12 Hours of Terror (2025)
-https://cloud.hownetwork.xyz/xxx/KhEtKiAXWjUrNRI_bgFkdSoXPDw2VBgnbyUSPjFfJHVwSHt7aA4SIyY9KBQcVGU-dUosK3E/32/480.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/u2htpMznSpGXbkaOwCjRvPgznC4.jpg",Monster of Er Long Lake (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/15/Monster.of.Er.Long.Lake.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FJSlaWJVf1e2wa8ZVxtLYHMeJ.jpg",Fair Rain (2025)
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6cCjdLf40bgcixajunLveU0gtQq.jpg",Deceased (2024)
+https://cdn.turboviplay.cc/data1/67a813788cc86/67a813788cc86720.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/st5bfkhfnUdp2hQK9yRr1ntYgTt.jpg",Over The Red River (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Over.the.Red.River.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bM7mJMpUu8CIar02lFBBNhuNM.jpg",Mummy Shark (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Mummy.Shark.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hX83GMDPIlXfEVYqL1odAAp5Dh9.jpg",Super Icyclone (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Super.Icyclone.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nWWkk5E8uiwNfywwcEFkEA5BObb.jpg",The Proud Princess (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/The.Proud.Princess.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uDW5eeFUYp1vaU2ymEdVBG6g7iq.jpg",Death Whisperer 2 (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/05/Death.Whisperer.2.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4fDGHQLhauxRAzProug4AspfYwQ.jpg",The Mehta Boys (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/05/The.Mehta.Boys.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bodH1rRLT1elfYtgihI0C2anAD1.jpg",Bye Bye Boredom (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/05/Bye.Bye.Boredom.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k3LGf9afqmUZiAJ9nffBinpOhOI.jpg",LEGO Marvel Avengers  Mission Demolition (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/04/Lego.Marvel.Avengers.Mission.Demolition.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nrJ0Yfe19uvCqgNhtm7hRBIsUwF.jpg",Mister Sleep (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/04/Mister.Sleep.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3nwGGdFfm2H1NsrdlFw6I5NhUYL.jpg",Man and Witch  The Dance of a Thousand Steps (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/04/Man.and.Witch.The.Dance.of.a.Thousand.Steps.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1luaxuRCI7X8mtNMKsQ4grBYICo.jpg",Blood Star (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/04/Blood.Star.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nIW5ImS7uj76g7Kh00KDyvFyysl.jpg",X Files (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/04/X.Files.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fay7Tewv1lgkiym0CqOdagFBOW8.jpg",The Magic Penguin (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/03/The.Magic.Penguin.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/84YVJuVaJ0tlo244eRUTNdIe9uL.jpg",Anuja (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/03/Anuja.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2LzvPpKZgaFU1rw5cqEZWHfzQGR.jpg",Permafrost (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/03/Permafrost.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hQmDLJoygswaH0nQelyXC5HgM9Z.jpg",Homestead (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/03/Homestead.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8FxyXMIt7seeAeXgkI28VmWKNPM.jpg",S.T.A.L.K.E.R. Shadow of the Zone (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/02/S.T.A.L.K.E.R.Shadow.of.the.Zone.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/02/film-shoutai-2024-lk21-d21.jpg.webp",Shoutai (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/02/Shoutai.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7P1sCuOM294qvvTNZglg1UpY0c.jpg",Agrinai (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/02/Agrinai.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ltslQrFpdBdPxayLUTC2dcsob6o.jpg",The Clot (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/02/The.Clot.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3rTNq7sgAoAKNK8axPYA6MoBO83.jpg",Bogotá  City of the Lost (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/02/Bogota.City.of.the.Lost.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ccNBpoqmgvmZBRRD6anGfhz2Qd6.jpg",A Hundred Lies (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/02/A.Hundred.Lies.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6kr80U7hiiZuHEfD8Z13mDDZpwF.jpg",Trophy Wife (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/02/Trophy.Wife.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/52w3bGtOpNP2ZASgAH0In5G9B7X.jpg",Dark Match (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/01/Dark.Match.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vmtkYN1S2NpjFhLZpDteVQ3dxdH.jpg",The Vanishing Soldier (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/01/The.Vanishing.Soldier.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/29IpnkqWIkFvSlynGu7X6ylAdiL.jpg",Balota (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/01/Ballot.Balota.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zH3n5p2keYtdBWIqwKhVVLITneE.jpg",A Mother's Embrace (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/01/A.Mothers.Embrace.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A9ENz6d4lC3UYOX8Z1gJwDEo1sM.jpg",Devara  Part 1 (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/01/Devara.Part.1.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/83vc3Dw3xrsUChaofP5VaQX8oHo.jpg",Night Call (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/21/Night.Call.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5FU13HpGa3XyVCsH1S9GigOu0LX.jpg",Ibu (2024)
+https://cdn3.turboviplay.cc/data1/679ca8bfb6a44/679ca8bfb6a44720.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A4lT8nWX0sxWBmnGxzx2pP1KXOW.jpg",Mother Maker Lover Taker (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/20/Mother.Maker.Lover.Taker.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9WtImcI6k9XOcnPmSeN2Kzpf4ay.jpg",Bonhoeffer  Pastor. Spy. Assassin (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/20/Bonhoeffer.Pastor.Spy.Assassin.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3F8BCucu4hzwMTZwdCCwrqNdxWJ.jpg",Blossoms Under Somewhere (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/20/Blossoms.Under.Somewhere.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zZx5a595bYuNxd8TdoRflxATFML.jpg",Cunk on Life (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/20/Cunk.on.Life.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/deqPsq34xdOtVOwnfaipk3ejOPq.jpg",Get Fast (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/11/Get.Fast.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iC6llFstc5RkHthOb6pi6lwR0NM.jpg",Dark Night of the Soul (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/20/Dark.Night.of.the.Soul.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kN4hiCkl7zaSPq1zGytoe9EVKDF.jpg",Formed Police Unit (2024)
+https://cdn2.turboviplay.cc/data1/679aab665becb/679aab665becb720.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/11tcho0QL35VKS9ARLZLfqN7Poi.jpg",The Buckingham Murders (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/20/The.Buckingham.Murders.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg",Moana 2 (2024)
+https://cdn2.turboviplay.cc/data1/679a85600aea0/679a85600aea0720.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p9F8aDVBHZpKkdQIbhzcTRmHggT.jpg",Kahar  Kapla High Council (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/19/Kahar.Kapla.High.Council.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/w5uAxfHR0xzi3Q0gGb1Nz3Y2TZ9.jpg",Whiteout (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/19/Whiteout.2023.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xSBcnxc3Gt003h181iJI2vLqLbI.jpg",The Shelter (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/19/The.Shelter.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qbImUt1d3itXcB81BCItPZlfbyr.jpg",A Legend (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/19/A.Legend.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="movie"  group-title="FILM 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fCjySaFZBQASHASRAQFbe7XrJKz.jpg",Amazon Bullseye (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/19/Amazon.Bullseye.2024.mp4/tracks-v1a1/mono.m3u8
